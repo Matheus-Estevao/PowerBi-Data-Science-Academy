@@ -2,7 +2,8 @@
 
 Esse repositório contém os arquivos dos laboratórios práticos e mini-projetos realizados durante o curso de Power BI e Data Science.
 
-## Laboratórios Práticos
+<details>
+<summary><h2>Laboratórios Práticos</h2></summary>
 
 <details>
 <summary><h3>Lab 1: Introdução ao Power BI</h3></summary>
@@ -92,8 +93,10 @@ Habilidades Aprendidas:
 - Publicar um relatório na web.
 
  </details>   
+ </details>
  
-## Mini-Projetos
+<details>
+<summary><h2>Mini-Projetos</h2></summary>
 
 <details>
 <summary><h3>Mini-Projeto 1: Análise de Vendas</h3></summary>
@@ -116,4 +119,5 @@ Nesse mini-projeto,
   
 <a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
   
+</details> 
 </details> 
