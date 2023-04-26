@@ -9,6 +9,7 @@ Esse repositório contém os arquivos dos laboratórios práticos e mini-projeto
 Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprendendo os conceitos básicos e os principais recursos da ferramenta.
 <details>
 <summary>Habilidades Aprendidas:</summary>
+  
 - Carregar a fonte de dados no Power BI;
 - Utilizar cartões de métricas para exibir informações importantes;
 - Criar gráficos de pizza para representar a distribuição de vendas por região;
@@ -16,6 +17,7 @@ Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprende
 - Utilizar um mapa mundial para exibir as vendas por país;
 - Aplicar filtros e segmentações de dados para analisar as vendas de forma mais detalhada;
 - Formatar o relatório, adicionando títulos, imagens e estilos para deixá-lo mais atrativo.
+  
 </details>
 ### Lab 2: Tratamento e Modelagem de Dados
 
