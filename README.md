@@ -7,7 +7,9 @@ Esse repositório contém os arquivos dos laboratórios práticos e mini-projeto
 ### Lab 1: Introdução ao Power BI
 
 Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprendendo os conceitos básicos e os principais recursos da ferramenta.
+
 [![Abrir Laboratório Prático 1](PowerBi-Data-Science-Academy/assets/icons8-symlink-directory-35.png)](https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02){:target="_blank"}
+
 
 <details>
 <summary>Habilidades Aprendidas:</summary>
