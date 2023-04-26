@@ -19,6 +19,7 @@ Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprende
 - Formatar o relatório, adicionando títulos, imagens e estilos para deixá-lo mais atrativo.
   
 </details>
+
 ### Lab 2: Tratamento e Modelagem de Dados
 
 Nesse laboratório prático, foi abordado o tratamento e modelagem de dados no Power BI, com foco em boas práticas de preparação de dados para análises.
