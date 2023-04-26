@@ -1,33 +1,74 @@
-# PowerBi-Data-Science-Academy
-Criei este repositório para acompanhar meu progresso e desenvolvimento de habilidades aprendidos no curso de Power BI da Data Science Academy. Cada laboratório prático é adicionado como pasta, contendo arquivos .pbix, .csv e .xlsx permitindo que outros usuários vejam e analisem.
-
-
 # Repositório do Curso de Power BI e Data Science
 
-Este repositório contém todos os arquivos e códigos criados durante o curso de Power BI e Data Science, que tem duração de 72 horas.
+Esse repositório contém os arquivos dos laboratórios práticos e mini-projetos realizados durante o curso de Power BI e Data Science.
 
 ## Laboratórios Práticos
 
-<details>
-  <summary>Clique aqui para ver a lista de laboratórios práticos</summary>
-  
-  ### Laboratório Prático 1 - Introdução ao Power BI
-  Neste laboratório, os alunos aprenderão como criar um relatório básico usando o Power BI.
+### Lab 1: Introdução ao Power BI
 
-  [Clique aqui para acessar a pasta do Laboratório Prático 1](./Laboratório Prático 1 - Introdução ao Power BI)
+Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprendendo os conceitos básicos e os principais recursos da ferramenta.
 
-  ### Laboratório Prático 2 - Visualizações Avançadas no Power BI
-  Neste laboratório, os alunos aprenderão a criar visualizações avançadas, como mapas e gráficos de funil, usando o Power BI.
+Habilidades Aprendidas:
+- Criar uma conta no Power BI;
+- Importar dados de diversas fontes;
+- Criar relatórios básicos usando as visualizações padrão.
 
-  [Clique aqui para acessar a pasta do Laboratório Prático 2](./Laboratório Prático 2 - Visualizações Avançadas no Power BI)
+### Lab 2: Tratamento e Modelagem de Dados
 
-  ### Laboratório Prático 3 - Preparação de Dados no Power BI
-  Neste laboratório, os alunos aprenderão a limpar e transformar dados usando o Power BI.
+Nesse laboratório prático, foi abordado o tratamento e modelagem de dados no Power BI, com foco em boas práticas de preparação de dados para análises.
 
-  [Clique aqui para acessar a pasta do Laboratório Prático 3](./Laboratório Prático 3 - Preparação de Dados no Power BI)
+Habilidades Aprendidas:
+- Identificar e tratar dados faltantes;
+- Utilizar ferramentas de transformação de dados;
+- Utilizar técnicas de modelagem de dados.
 
-  ### Laboratório Prático 4 - Análise de Dados com R
-  Neste laboratório, os alunos aprenderão a usar o R para análise de dados.
+### Lab 3: Análise e Visualização de Dados
 
-  [Clique aqui para acessar a pasta do Laboratório Prático 4](./Laboratório Prático 4 - Análise de Dados com R)
-</details>
+Nesse laboratório prático, foram aplicadas técnicas de análise e visualização de dados para responder questões específicas de negócios.
+
+Habilidades Aprendidas:
+- Criar gráficos e visualizações avançadas;
+- Realizar análises de tendência, correlação e regressão;
+- Utilizar ferramentas de filtragem e slicer.
+
+### Lab 4: Criação de Dashboards
+
+Nesse laboratório prático, foi criado um dashboard interativo e dinâmico para apresentação de análises e insights.
+
+Habilidades Aprendidas:
+- Utilizar os principais recursos de design do Power BI;
+- Criar um dashboard interativo;
+- Configurar parâmetros e slicers para permitir interação.
+
+### Lab 5: Visualização de Dados Geográficos
+
+Nesse laboratório prático, foi explorada a visualização de dados geográficos no Power BI, utilizando mapas interativos.
+
+Habilidades Aprendidas:
+- Importar dados geográficos;
+- Utilizar a visualização de mapas;
+- Realizar análises espaciais.
+
+### Lab 6: Criação de Relatórios para Publicação
+
+Nesse laboratório prático, foram abordados conceitos e práticas de criação de relatórios para publicação em plataformas web e dispositivos móveis.
+
+Habilidades Aprendidas:
+- Utilizar os principais recursos de design para criação de relatórios;
+- Configurar a otimização de visualizações para diferentes dispositivos;
+- Publicar um relatório na web.
+
+## Mini-Projetos
+
+### Mini-Projeto 1: Análise de Vendas
+
+Nesse mini-projeto, foi realizado uma análise de vendas de uma loja de varejo, buscando identificar padrões e insights para otimização de estratégias de venda.
+
+Habilidades Aprendidas:
+- Utilizar técnicas de tratamento de dados para preparação dos dados;
+- Utilizar ferramentas de análise exploratória de dados;
+- Criar visualizações avançadas para apresentação de resultados.
+
+### Mini-Projeto 2: Análise de Redes Sociais
+
+Nesse mini-projeto,
