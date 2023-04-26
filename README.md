@@ -8,7 +8,9 @@ Esse repositório contém os arquivos dos laboratórios práticos e mini-projeto
 
 Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprendendo os conceitos básicos e os principais recursos da ferramenta.
 
-[![Nome da Imagem](./assets/Incone-diretorio-20.png)]((https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02){:target="_blank"})
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank">
+    <img src="./assets/Incone-diretorio-20.png" alt="diretorio">
+</a>
 
 
 
