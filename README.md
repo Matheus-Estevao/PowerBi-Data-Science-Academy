@@ -10,8 +10,7 @@ Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprende
 
 <a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
 
-<details>
-<summary>Habilidades Aprendidas:</summary>
+Habilidades Aprendidas
   
 - Carregar a fonte de dados no Power BI;
 - Utilizar cartões de métricas para exibir informações importantes;
@@ -21,66 +20,100 @@ Nesse laboratório prático, foi realizada uma introdução ao Power BI, aprende
 - Aplicar filtros e segmentações de dados para analisar as vendas de forma mais detalhada;
 - Formatar o relatório, adicionando títulos, imagens e estilos para deixá-lo mais atrativo.
 
-</details>
 
 </details>
 
-### Lab 2: Tratamento e Modelagem de Dados
+<details>
+<summary><h3>Lab 2: Tratamento e Modelagem de Dados</h3></summary>
 
 Nesse laboratório prático, foi abordado o tratamento e modelagem de dados no Power BI, com foco em boas práticas de preparação de dados para análises.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Identificar e tratar dados faltantes;
 - Utilizar ferramentas de transformação de dados;
 - Utilizar técnicas de modelagem de dados.
+  
+</details>
 
-### Lab 3: Análise e Visualização de Dados
+<details>
+<summary><h3>Lab 3: Análise e Visualização de Dados</h3></summary>
 
 Nesse laboratório prático, foram aplicadas técnicas de análise e visualização de dados para responder questões específicas de negócios.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Criar gráficos e visualizações avançadas;
 - Realizar análises de tendência, correlação e regressão;
 - Utilizar ferramentas de filtragem e slicer.
 
-### Lab 4: Criação de Dashboards
+</details>
+  
+<details>
+<summary><h3>Lab 4: Criação de Dashboards</h3></summary>
 
 Nesse laboratório prático, foi criado um dashboard interativo e dinâmico para apresentação de análises e insights.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Utilizar os principais recursos de design do Power BI;
 - Criar um dashboard interativo;
 - Configurar parâmetros e slicers para permitir interação.
+  
+</details>
 
-### Lab 5: Visualização de Dados Geográficos
+<details>
+<summary><h3>Lab 5: Visualização de Dados Geográficos</h3></summary>
 
 Nesse laboratório prático, foi explorada a visualização de dados geográficos no Power BI, utilizando mapas interativos.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Importar dados geográficos;
 - Utilizar a visualização de mapas;
 - Realizar análises espaciais.
 
-### Lab 6: Criação de Relatórios para Publicação
+ </details> 
+  
+<details>
+<summary><h3>Lab 6: Criação de Relatórios para Publicação</h3></summary>
 
 Nesse laboratório prático, foram abordados conceitos e práticas de criação de relatórios para publicação em plataformas web e dispositivos móveis.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Utilizar os principais recursos de design para criação de relatórios;
 - Configurar a otimização de visualizações para diferentes dispositivos;
 - Publicar um relatório na web.
 
+ </details>   
+ 
 ## Mini-Projetos
 
-### Mini-Projeto 1: Análise de Vendas
+<details>
+<summary><h3>Mini-Projeto 1: Análise de Vendas</h3></summary>
 
 Nesse mini-projeto, foi realizado uma análise de vendas de uma loja de varejo, buscando identificar padrões e insights para otimização de estratégias de venda.
-
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
 Habilidades Aprendidas:
 - Utilizar técnicas de tratamento de dados para preparação dos dados;
 - Utilizar ferramentas de análise exploratória de dados;
 - Criar visualizações avançadas para apresentação de resultados.
+  
+</details> 
 
-### Mini-Projeto 2: Análise de Redes Sociais
+<details>
+<summary><h3>Mini-Projeto 2: Análise de Redes Sociais</h3></summary>
 
 Nesse mini-projeto,
+  
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+  
+</details> 
