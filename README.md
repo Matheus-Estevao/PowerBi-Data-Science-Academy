@@ -28,7 +28,7 @@ Habilidades Aprendidas
 
 Nesse laboratório prático, foi abordado o tratamento e modelagem de dados no Power BI, com foco em boas práticas de preparação de dados para análises.
 
-<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap03" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
 
 Habilidades Aprendidas:
 
