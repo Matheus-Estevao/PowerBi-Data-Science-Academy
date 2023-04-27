@@ -32,9 +32,17 @@ Nesse laboratório prático, foi abordado o tratamento e modelagem de dados no P
 
 Habilidades Aprendidas:
 
-- Identificar e tratar dados faltantes;
-- Utilizar ferramentas de transformação de dados;
-- Utilizar técnicas de modelagem de dados.
+- Modelagem de Dados em Business Intelligence
+- Utilização do Query Editor, Report View, Relationship View e Data View no Power BI
+- Verificação de Relacionamentos e Remoção de Duplicatas nos Dados no Power BI
+- Detecção Automática de Relacionamentos no Power BI
+- Trabalho com Relacionamentos e Cardinalidade no Power BI
+- Introdução ao Power Query M-Language e DAX (Data Analysis Expressions)
+- Utilização de Gráfico de Cascata e Gráfico Treemap no Power BI
+- Criação de Indicador Chave de Performance (KPI) no Power BI
+- Criação de Coluna Calculada Para o Lucro no Power BI
+- Cálculo da Margem de Lucro Usando DAX no Power BI
+- Criação de um Dashboard completo com Vendas, Custo, Margem de Lucro e KPI no Power BI.
 
 </details>
 
