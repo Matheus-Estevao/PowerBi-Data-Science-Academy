@@ -1,6 +1,7 @@
 # Repositório do Curso de Power BI e Data Science
 
 Esse repositório contém os arquivos dos laboratórios práticos e mini-projetos realizados durante o curso de Power BI e Data Science.
+Clique nas informações adicionais abaixo. 
 
 <details>
 <summary><h2>Laboratórios Práticos</h2></summary>
