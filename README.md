@@ -1,7 +1,6 @@
 # Repositório do Curso de Power BI e Data Science
 
 Esse repositório contém os arquivos dos laboratórios práticos e mini-projetos realizados durante o curso de Power BI e Data Science.
-Clique nas informações adicionais abaixo. 
 
 <details>
 <summary><h2>Laboratórios Práticos</h2></summary>
@@ -116,13 +115,16 @@ Habilidades Aprendidas:
 
 Nesse mini-projeto, foi realizado uma análise de vendas de uma loja de varejo, buscando identificar padrões e insights para otimização de estratégias de venda.
 
-<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap02" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
+<a href="https://github.com/Matheus-Estevao/PowerBi-Data-Science-Academy/tree/main/Cap04" target="_blank"><img src="./assets/Incone-diretorio-20.png" alt="Nome da Imagem"></a>
 
 Habilidades Aprendidas:
 
-- Utilizar técnicas de tratamento de dados para preparação dos dados;
-- Utilizar ferramentas de análise exploratória de dados;
-- Criar visualizações avançadas para apresentação de resultados.
+- Importação e limpeza de dados: Aprendi a carregar e preparar os dados no Power BI, garantindo que eles estejam prontos para análise;
+- Exploração de dados: Aperfeiçoei minha capacidade de explorar e analisar dados, identificando padrões e tendências relevantes;
+- Criação e formatação de dashboards: Desenvolvi habilidades na criação de dashboards claros e informativos, facilitando a interpretação dos resultados;
+- Remoção de outliers e criação de medidas: Aprendi a identificar e remover outliers nos dados, bem como a criar medidas personalizadas no Power BI;
+- Análise de relações entre variáveis: Aperfeiçoei minha habilidade de analisar a relação entre diferentes variáveis, como gasto total e número de filhos;
+- Identificação de padrões de compra: Desenvolvi habilidades para analisar padrões de compra em diferentes pontos de venda, possibilitando a identificação de oportunidades, de melhoria e crescimento.
 
 </details>
 
